@@ -13,9 +13,12 @@
 ## Experiments
 
 ### Run SMICE
-The configuration files containing the selected PDB IDs from the Atlas, CodNaS-Q, and the PDB databases are deposited in the folder `./configs`
+The config files containing the selected PDB IDs from the Atlas, CodNaS-Q, and the PDB databases are deposited in the folder `./configs`
 
 See the [tutorial](https://github.com/StatCYK/SMICE) for the details of setting up the configuration file and conducting SMICE
 
+### Extract Features
+`./code/Feature_Extract.ipynb` provides the code for extracting features from the SMICE's predicted conformational ensembles and obtaining the training dataset as saved in the folder `./data/Metamorphic_classify.csv`
 
-`./code/Feature_Extract.ipynb` provides 
+### Training Random Forest Classifier
+run `./code/RF_train.R`
