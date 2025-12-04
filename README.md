@@ -13,7 +13,7 @@
 ## Experiments
 
 ### Run SMICE
-The config files containing the selected PDB IDs from the Atlas, CodNaS-Q, and the PDB databases are deposited in the folder `./configs`
+The configuration files containing the selected PDB IDs from the Atlas, CodNaS-Q, and the PDB databases are deposited in the folder `./configs`
 
 See the [tutorial](https://github.com/StatCYK/SMICE) for the details of setting up the configuration file and conducting SMICE
 
