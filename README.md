@@ -6,8 +6,6 @@
 * python
 * R packages `"ranger", "pROC", "caret", "foreach", "doParallel"`
 
-
-
 ### Install external packages
 
 * SMICE: refer to [https://github.com/StatCYK/SMICE](https://github.com/StatCYK/SMICE) for installation
